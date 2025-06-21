@@ -1,9 +1,9 @@
-📦 My First RESTful API 🚀
+## 📦 My First RESTful API 🚀
 
 Welcome to my very first RESTful API built with Node.js, Express, and EJS!
 This project was created as part of my learning journey into full-stack web development, backend concepts, and server-side rendering.
 
-✨ Why This Project?
+# ✨ Why This Project?
 
 I built this project to:
 
@@ -21,7 +21,7 @@ Build the foundation for real-world, production-ready APIs.
 
 ---
 
-🔧 Technologies Used
+# 🔧 Technologies Used
 
 Technology	Purpose
 
@@ -34,7 +34,7 @@ CSS	Styling the web pages (basic)
 
 ---
 
-📁 Features Implemented
+# 📁 Features Implemented
 
 ✅ RESTful routes (GET, POST, PUT, DELETE)
 ✅ Server-side rendering with EJS
@@ -45,7 +45,7 @@ CSS	Styling the web pages (basic)
 
 ---
 
-📂 Folder Structure
+## 📂 Folder Structure
 
 REST/
 ├── node_modules/
@@ -57,7 +57,7 @@ REST/
 
 ---
 
-▶ How to Run Locally
+# ▶ How to Run Locally
 
 1️⃣ Clone the repository:
 
@@ -78,7 +78,7 @@ http://localhost:8080
 
 ---
 
-💡 What I Learned
+# 💡 What I Learned
 
 Setting up an Express.js project from scratch.
 
@@ -92,7 +92,7 @@ Managing project structure for scalability.
 
 ---
 
-📚 Next Steps (Coming Soon 🚧)
+# 📚 Next Steps (Coming Soon 🚧)
 
 Connecting with a database (MongoDB) to persist data.
 
